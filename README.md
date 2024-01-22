@@ -16,7 +16,7 @@
 | **Dask-sql**<sup>\[5]                | ☑️          | Within a month        | RAPIDS (cuDF)         | Dask, Inc. |
 | BlazingSQL<sup>\[6]                  | ☑️          | 2 years ago           | Hadoop                | BlazingDB  |
 | OmniSci<sup>\[7]</sup> (Former of HeavyDB) | ☑️          | 3 years ago           | LLVM to PTX           | Heavy.AI   |
-| MapD<sup>\[8]</sup> (Former of HeavyDB)    | ☑️          | more than 3 years ago | CUDA                  | Heavy.AI   |
+| MapD<sup>\[8]</sup> (Former of HeavyDB)    | ☑️          | More than 3 years ago | CUDA                  | Heavy.AI   |
 
 ## 2. Commercial GPU DBMS
 
