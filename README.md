@@ -1,6 +1,6 @@
 # GPU DBMS list
 
-## 1. Research Prototype GPU DBMS
+## 1. Research-Prototype GPU DBMS
 
 ### 1.1 OLTP GPU DBMS
 
