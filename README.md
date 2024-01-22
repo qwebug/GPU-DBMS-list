@@ -1,14 +1,14 @@
 # GPU DBMS list
 
-## 1. Research-Prototype GPU DBMS
+## 1. Research Prototype
 
-### 1.1 OLTP GPU DBMS
+### 1.1 OLTP
 
 | GPU DBMS   | Open Source | Last Active Time | Computational Backend | Developer          |
 | :--------- | :---------- | :--------------- | :-------------------- | :----------------- |
 | GPUTx<sup>\[15] | ✖️          | -                | CUDA                  | Bingsheng He, etc. |
 
-### 1.2 OLAP GPU DBMS
+### 1.2 OLAP
 
 | GPU DBMS                             | Open Source | Last Active Time      | Computational Backend | Developer            |
 | :----------------------------------- | :---------- | :-------------------- | :-------------------- | :------------------- |
