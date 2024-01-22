@@ -25,7 +25,7 @@
 | GPU DBMS             | Open Source | Computational Backend | Derived From  | Developer |
 | :------------------- | :---------- | :-------------------- | :------------ | :-------- |
 | DB2 BLU<sup>\[2]\[3] | ✖️          | CUDA                  | DB2<sup>\[10] | IBM, Inc. |
-| Brytlyt<sup>\[11]    | ✖️          | CUDA                  | PostgresSQL<sup>\[9]   | Brytlyt    |
+| Brytlyt<sup>\[11]    | ✖️          | CUDA                  | PostgresSQL<sup>\[9]   | Brytlyt, Inc.    |
 
 ### 1.2 Full-GPU-executed DBMS&#x20;
 
