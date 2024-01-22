@@ -20,14 +20,14 @@
 
 ## 2. Commercial GPU DBMS
 
-### 1.1 Traditional Database Extension
+### 2.1 Traditional Database Extension
 
 | GPU DBMS             | Open Source | Computational Backend | Derived From  | Developer |
 | :------------------- | :---------- | :-------------------- | :------------ | :-------- |
 | DB2 BLU<sup>\[2]\[3] | ✖️          | CUDA                  | DB2<sup>\[10] | IBM, Inc. |
 | Brytlyt<sup>\[11]    | ✖️          | CUDA                  | PostgresSQL<sup>\[9]   | Brytlyt, Inc.    |
 
-### 1.2 Full-GPU-executed DBMS&#x20;
+### 2.2 Full-GPU-executed DBMS&#x20;
 
 | GPU DBMS                        | Open Source | Computational Backend | Developer           |
 | :------------------------------ | :---------- | :-------------------- | :------------------ |
