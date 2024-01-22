@@ -2,20 +2,20 @@
 
 ## 1. Research Prototype GPU DBMS
 
-### 1.1 OLTP
+### 1.1 OLTP GPU DBMS
 
 | GPU DBMS   | Open Source | Last Active Time | Computational Backend | Developer          |
 | :--------- | :---------- | :--------------- | :-------------------- | :----------------- |
 | GPUTx<sup>\[15] | ✖️          | -                | CUDA                  | Bingsheng He, etc. |
 
-### 1.2 OLAP
+### 1.2 OLAP GPU DBMS
 
 | GPU DBMS                             | Open Source | Last Active Time      | Computational Backend | Developer            |
 | :----------------------------------- | :---------- | :-------------------- | :-------------------- | :------------------- |
 | MultiQX-GPU<sup>\[16]                     | ✖️          | -                     | CUDA                  | Kaibo Wang, etc.     |
 | YDB(YSmart)<sup>\[17]                     | ✖️          | -                     | CUDA                  | Yuan Yuan, etc.      |
 | CoGaDB<sup>\[18]                          | ✖️          | -                     | CUDA                  | Sebastian Breß, etc. |
-| MapD<sup>\[8] (Former of HeavyDB)    | ☑️          | More than 3 years ago | CUDA                  | Heavy.AI             |
+| MapD<sup>\[8]</sup> (Former of HeavyDB)    | ☑️          | More than 3 years ago | CUDA                  | Heavy.AI             |
 | Alenka\[19]                          | ☑️          | More than 3 years ago | CUDA                  | Furst E, etc.        |
 | GDB(GPUQP)<sup>\[20]                      | ✖️          | -                     | CUDA                  | Rui Fang, etc.       |
 | GalacticaDB<sup>\[21]                     | ☑️          | 3 years ago           | CUDA                  | Keh Kok Yong, etc.   |
@@ -23,7 +23,7 @@
 | Ocelot<sup>\[23]                          | ✖️          | -                     | OpenCL                | Sebastian Breß, etc. |
 | OmniDB<sup>\[24]                          | ☑️          | More than 3 years ago | OpenCL                | Zhang S, etc.        |
 | Virginian<sup>\[25]                       | ☑️          | More than 3 years ago | OpenCL                | Angstadt K, etc.     |
-| GPUDB<sup>\[14]\(Former of Kinetica) | ☑️          | More than 3 years ago | OpenCL                | Kinetica DB, Inc.    |
+| GPUDB<sup>\[14]</sup>(Former of Kinetica) | ☑️          | More than 3 years ago | OpenCL                | Kinetica DB, Inc.    |
 
 ## 2. Commercial GPU DBMS
 
@@ -41,7 +41,7 @@
 | :----------------------------------- | :---------- | :---------- | :--------------- | :-------------------- | :------------------ |
 | **HeavyDB**<sup>\[4]                 | ☑️          | Partly Free | Within a month   | LLVM to PTX           | Heavy.AI            |
 | **Dask-sql**<sup>\[5]                | ☑️          | Free        | Within a month   | RAPIDS (cuDF)         | Dask, Inc.          |
-| OmniSci<sup>\[7] (Former of HeavyDB) | ☑️          | Free        | 3 years ago      | LLVM to PTX           | Heavy.AI            |
+| OmniSci<sup>\[7]</sup> (Former of HeavyDB) | ☑️          | Free        | 3 years ago      | LLVM to PTX           | Heavy.AI            |
 | Kinetica<sup>\[12]                   | ✖️          | Charge      | -                | OpenCL                | Kinetica DB, Inc.   |
 | SQream<sup>\[13]                     | ✖️          | Charge      | -                | CUDA                  | SQream Technologies |
 | BlazingSQL<sup>\[6]                  | ☑️          | Free        | 3 years ago      | Hadoop                | BlazingDB           |
