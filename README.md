@@ -25,14 +25,14 @@
 | GPU DBMS             | Open Source | Computational Backend | Derived From  | Developer |
 | :------------------- | :---------- | :-------------------- | :------------ | :-------- |
 | DB2 BLU<sup>\[2]\[3] | ✖️          | CUDA                  | DB2<sup>\[10] | IBM, Inc. |
+| Brytlyt<sup>\[11]    | ✖️          | CUDA                  | PostgresSQL<sup>\[9]   | Brytlyt    |
 
 ### 1.2 Full-GPU-executed DBMS&#x20;
 
 | GPU DBMS                        | Open Source | Computational Backend | Developer           |
 | :------------------------------ | :---------- | :-------------------- | :------------------ |
-| Brytlyt<sup>\[11]               | ✖️          | CUDA                  | Brytlyt             |
 | Kinetica<sup>\[12]              | ✖️          | OpenCL                | Kinetica DB, Inc.   |
-| SqreamDB<sup>\[13]              | ✖️          | CUDA                  | SQream Technologies |
+| SQream<sup>\[13]              | ✖️          | CUDA                  | SQream Technologies |
 | GPUDB<sup>\[14]</sup>(Former of Kinetica) | ✖️          | OpenCL                | Kinetica DB, Inc.   |
 
 ## References
