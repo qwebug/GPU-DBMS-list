@@ -16,7 +16,7 @@
 | YDB(YSmart)<sup>\[17]                     | ✖️          | -                     | CUDA                  | Yuan Yuan, etc.      |
 | CoGaDB<sup>\[18]                          | ✖️          | -                     | CUDA                  | Sebastian Breß, etc. |
 | MapD<sup>\[8]</sup> (Former of HeavyDB)    | ☑️          | More than 3 years ago | CUDA                  | Heavy.AI             |
-| Alenka\[19]                          | ☑️          | More than 3 years ago | CUDA                  | Furst E, etc.        |
+| Alenka<sup>\[19]                          | ☑️          | More than 3 years ago | CUDA                  | Furst E, etc.        |
 | GDB(GPUQP)<sup>\[20]                      | ✖️          | -                     | CUDA                  | Rui Fang, etc.       |
 | GalacticaDB<sup>\[21]                     | ☑️          | 3 years ago           | CUDA                  | Keh Kok Yong, etc.   |
 | HippogriffDB<sup>\[22]                    | ✖️          | -                     | CUDA                  | Li J, etc.           |
