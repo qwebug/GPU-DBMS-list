@@ -64,15 +64,15 @@
 
 \[8] Christopher Root and Todd Mostak. Mapd: A gpu-powered big data analytics and visualization platform. In *ACM SIGGRAPH 2016 Talks*, pages 1–2. 2016.
 
-\[9] PostgreSQL. PostgreSQL: The World’s Most Advanced Open Source Relational Database. //[www.postgresql.org/](http://www.postgresql.org/), 2023.
+\[9] PostgreSQL. PostgreSQL: The World’s Most Advanced Open Source Relational Database. [www.postgresql.org/](http://www.postgresql.org/), 2023.
 
-\[10] IBM. IBM Db2 database. <https://www.ibm.com/> products/db2/database, 2023.
+\[10] IBM. IBM Db2 database. <https://www.ibm.com/products/db2/database>, 2023.
 
 \[11] Brytlyt White Paper: Speed of Thought Analytics at Scale. <https://www.brytlyt.com/>, 2023.
 
-\[12] Kinetica On-Premises Documentation. <https://docs>. kinetica.com/, 2023.
+\[12] Kinetica On-Premises Documentation. <https://docs.kinetica.com/>, 2023.
 
-\[13] Sqream DB Architecture Whitepaper: A Next Gener- ation Gpu Powered Analytics SQL Database. https: //sqream.com/, 2023.
+\[13] Sqream DB Architecture Whitepaper: A Next Gener- ation Gpu Powered Analytics SQL Database. https://sqream.com/, 2023.
 
 \[14] Yuan Y, Lee R, Zhang X. The yin and yang of processing data warehousing queries on GPU devices. VLDB Journal, 2013,6(10): 817−828.
 
